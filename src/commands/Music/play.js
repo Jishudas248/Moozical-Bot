@@ -20,7 +20,7 @@ module.exports = {
           new MessageEmbed()
             .setColor(client.embedColor)
             .setDescription(
-              `I don't have enough permissions to execute this command! please give me permission \`CONNECT\` or \`SPEAK\`.`,
+              `I don't have enough permissions to execute this command! please shut the fuck up and suck your own cuck give me permission \`CONNECT\` or \`SPEAK\`.`,
             ),
         ],
       });
